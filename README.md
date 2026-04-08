@@ -1,2 +1,1 @@
-# CONFIG-CLIENT-1
-config client
+spring.application.name = appProd
